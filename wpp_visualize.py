@@ -5,6 +5,9 @@ from plotnine import ggplot, aes, geom_line, ggtitle, guides, geom_point, annota
 wpp_median_2022 = pd.read_csv('WPP_2022_Median_clean.csv')
 wpp_low_2022 = pd.read_csv('WPP_2022_Low_clean.csv')
 
+wpp_median_2024 = pd.read_csv('WPP_2024_Median_clean.csv')
+wpp_low_2024 = pd.read_csv('WPP_2024_Low_clean.csv')
+
 vital_statistics = pd.read_csv('vital_statistics.csv',encoding='unicode_escape')
 
 #Main Site Creation
@@ -21,6 +24,8 @@ selected_variable = st.selectbox('Variable', variable_list) #Dropdown list of va
 #Plotting Based on User Selections
 wpp_median_2022 = wpp_median_2022.loc[wpp_median_2022["Country"]==selected_country]
 wpp_low_2022 = wpp_low_2022.loc[wpp_low_2022["Country"]==selected_country]
+wpp_median_2024 = wpp_median_2024.loc[wpp_median_2024["Country"]==selected_country]
+wpp_low_2024 = wpp_low_2024.loc[wpp_low_2024["Country"]==selected_country]
 vital_statistics = vital_statistics[vital_statistics["Country"]==selected_country]
 
 
@@ -39,7 +44,9 @@ year_limits = st.slider("Select a range for display",1950, 2100, (1950, 2100))
 #Only want user-selected variant(s)
 wpp_median_2022['selected_variant'] = med_2022_selected
 wpp_low_2022['selected_variant'] = low_2022_selected
-full_df = pd.concat([wpp_median_2022,wpp_low_2022])
+wpp_median_2024['selected_variant'] = med_2024_selected
+wpp_low_2024['selected_variant'] = low_2024_selected
+full_df = pd.concat([wpp_median_2022,wpp_low_2022,wpp_median_2024,wpp_low_2024])
 full_df = full_df.loc[full_df['selected_variant']==True]
 
 #User Selected Years
