@@ -22,10 +22,12 @@ selected_country = st.selectbox('Country/Region', country_list) #Dropdown list o
 selected_variable = st.selectbox('Variable', variable_list) #Dropdown list of variables
 
 #Plotting Based on User Selections
-wpp_median_2022 = wpp_median_2022.loc[wpp_median_2022["Country"]==selected_country]
-wpp_low_2022 = wpp_low_2022.loc[wpp_low_2022["Country"]==selected_country]
-wpp_median_2024 = wpp_median_2024.loc[wpp_median_2024["Country"]==selected_country]
-wpp_low_2024 = wpp_low_2024.loc[wpp_low_2024["Country"]==selected_country]
+location_code = wpp_median_2022.loc[wpp_median_2022["Country"]==selected_country,"Location code"]
+location_code = location_code.iloc[0]
+wpp_median_2022 = wpp_median_2022.loc[wpp_median_2022["Location code"]==location_code]
+wpp_low_2022 = wpp_low_2022.loc[wpp_low_2022["Location code"]==location_code]
+wpp_median_2024 = wpp_median_2024.loc[wpp_median_2024["Location code"]==location_code]
+wpp_low_2024 = wpp_low_2024.loc[wpp_low_2024["Location code"]==location_code]
 vital_statistics = vital_statistics[vital_statistics["Country"]==selected_country]
 
 
