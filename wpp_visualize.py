@@ -64,14 +64,14 @@ if vital_stats_selected:
     if not vital_stats_row.empty:
         vital_stat_row_one = vital_stats_row.iloc[0]
         vital_stat_row_two = vital_stats_row.iloc[1]
-        if (not vital_stat_row_one.empty) and (vital_stat_row_one[selected_variable]>0):
-            p = p + geom_point(aes(x=vital_stat_row_one["Year"],y=vital_stat_row_one[f"{selected_variable}"]),color="black")
-            if (year_limits[1]-year_limits[0] <= 30) and (year_limits[0]<=2022) and (year_limits[1]>=2023):
-                p = p + annotate("text",x=1.25+vital_stat_row_one["Year"],y=vital_stat_row_one[f"{selected_variable}"],label="2022") 
-        if (not vital_stat_row_two.empty) and (vital_stat_row_two[selected_variable]>0):
-            p = p + geom_point(aes(x=vital_stat_row_two["Year"],y=vital_stat_row_two[f"{selected_variable}"]),color="black")
-            if (year_limits[1]-year_limits[0] <= 30) and (year_limits[0]<=2022) and (year_limits[1]>=2023):
-                p = p + annotate("text",x=1.25+vital_stat_row_two["Year"],y=vital_stat_row_two[f"{selected_variable}"],label="2023")
+        if (not vital_stat_row_one.empty) and (float(vital_stat_row_one[selected_variable])>0):
+            p = p + geom_point(aes(x=vital_stat_row_one["Year"],y=float(vital_stat_row_one[f"{selected_variable}"])),color="black")
+            if (year_limits[1]-year_limits[0] <= 30) and (year_limits[0]<=2023) and (year_limits[1]>=2024):
+                p = p + annotate("text",x=1.5+vital_stat_row_one["Year"],y=float(vital_stat_row_one[f"{selected_variable}"]),label="2023") 
+        if (not vital_stat_row_two.empty) and (float(vital_stat_row_two[selected_variable])>0):
+            p = p + geom_point(aes(x=vital_stat_row_two["Year"],y=float(vital_stat_row_two[f"{selected_variable}"])),color="black")
+            if (year_limits[1]-year_limits[0] <= 30) and (year_limits[0]<=2023) and (year_limits[1]>=2024):
+                p = p + annotate("text",x=1.5+vital_stat_row_two["Year"],y=float(vital_stat_row_two[f"{selected_variable}"]),label="2024")
 
 
 p = p + ggtitle(f"{selected_country}, {selected_variable}") + guides(linetype="none")
