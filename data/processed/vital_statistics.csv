@@ -1,0 +1,475 @@
+Index,Variant,Country,Location code,ISO3 Alpha-code,ISO2 Alpha-code,SDMX code**,Type,Parent code,Year,"Total Population, as of 1 January (thousands)","Total Population, as of 1 July (thousands)","Male Population, as of 1 July (thousands)","Female Population, as of 1 July (thousands)","Population Density, as of 1 July (persons per square km)","Population Sex Ratio, as of 1 July (males per 100 females)","Median Age, as of 1 July (years)","Natural Change, Births minus Deaths (thousands)","Rate of Natural Change (per 1,000 population)",Population Change (thousands),Population Growth Rate (percentage),Population Annual Doubling Time (years),Births (thousands),Births by women aged 15 to 19 (thousands),"Crude Birth Rate (births per 1,000 population)",Total Fertility Rate (live births per woman),Net Reproduction Rate (surviving daughters per woman),Mean Age Childbearing (years),Sex Ratio at Birth (males per 100 female births),Total Deaths (thousands),Male Deaths (thousands),Female Deaths (thousands),"Crude Death Rate (deaths per 1,000 population)","Life Expectancy at Birth, both sexes (years)",Male Life Expectancy at Birth (years),Female Life Expectancy at Birth (years),"Life Expectancy at Age 15, both sexes (years)",Male Life Expectancy at Age 15 (years),Female Life Expectancy at Age 15 (years),"Life Expectancy at Age 65, both sexes (years)",Male Life Expectancy at Age 65 (years),Female Life Expectancy at Age 65 (years),"Life Expectancy at Age 80, both sexes (years)",Male Life Expectancy at Age 80 (years),Female Life Expectancy at Age 80 (years),"Infant Deaths, under age 1 (thousands)","Infant Mortality Rate (infant deaths per 1,000 live births)",Live Births Surviving to Age 1 (thousands),"Under-Five Deaths, under age 5 (thousands)","Under-Five Mortality (deaths under age 5 per 1,000 live births)","Mortality before Age 40, both sexes (deaths under age 40 per 1,000 live births)","Male Mortality before Age 40 (deaths under age 40 per 1,000 male live births)","Female Mortality before Age 40 (deaths under age 40 per 1,000 female live births)","Mortality before Age 60, both sexes (deaths under age 60 per 1,000 live births)","Male Mortality before Age 60 (deaths under age 60 per 1,000 male live births)","Female Mortality before Age 60 (deaths under age 60 per 1,000 female live births)","Mortality between Age 15 and 50, both sexes (deaths under age 50 per 1,000 alive at age 15)","Male Mortality between Age 15 and 50 (deaths under age 50 per 1,000 males alive at age 15)","Female Mortality between Age 15 and 50 (deaths under age 50 per 1,000 females alive at age 15)","Mortality between Age 15 and 60, both sexes (deaths under age 60 per 1,000 alive at age 15)","Male Mortality between Age 15 and 60 (deaths under age 60 per 1,000 males alive at age 15)","Female Mortality between Age 15 and 60 (deaths under age 60 per 1,000 females alive at age 15)",Net Number of Migrants (thousands),"Net Migration Rate (per 1,000 population)",Projection
+1,Vital Statistics,China,,,,,,,2023,,,,,,,,,,,,,9020.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+2,Vital Statistics,India,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+3,Vital Statistics,United States of America,,,,,,,2023,,,,,,,,,,,,,3596.02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+4,Vital Statistics,Indonesia,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+5,Vital Statistics,Pakistan,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+6,Vital Statistics,Brazil,,,,,,,2023,,,,,,,,,,,,,2537.58,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+7,Vital Statistics,Nigeria,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+8,Vital Statistics,Bangladesh,,,,,,,2023,,,,,,,,,,,,,3317.38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+9,Vital Statistics,Russian Federation,,,,,,,2023,,,,,,,,,,,,,1264.35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+10,Vital Statistics,Japan,,,,,,,2023,,,,,,,,,,,,,727.29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+11,Vital Statistics,Mexico,,,,,,,2023,,,,,,,,,,,,,1820.89,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+12,Vital Statistics,Ethiopia,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+13,Vital Statistics,Philippines,,,,,,,2023,,,,,,,,,,,,,1448.52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+14,Vital Statistics,Egypt,,,,,,,2023,,,,,,,,,,,,,1837.44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+15,Vital Statistics,Viet Nam,,,,,,,2023,,,,,,,,,,,,,1424.40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+16,Vital Statistics,Democratic Republic of the Congo,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+17,Vital Statistics,Iran (Islamic Republic of),,,,,,,2023,,,,,,,,,,,,,1057.95,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+18,Vital Statistics,Türkiye,,,,,,,2023,,,,,,,,,,,,,961.57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+19,Vital Statistics,Germany,,,,,,,2023,,,,,,,,,,,,,692.99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+20,Vital Statistics,Thailand,,,,,,,2023,,,,,,,,,,,,,498.99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+21,Vital Statistics,United Kingdom,,,,,,,2023,,,,,,,,,,,,,656.97,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+22,Vital Statistics,France,,,,,,,2023,,,,,,,,,,,,,639.53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+23,Vital Statistics,Italy,,,,,,,2023,,,,,,,,,,,,,379.89,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+24,Vital Statistics,United Republic of Tanzania,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+25,Vital Statistics,South Africa,,,,,,,2023,,,,,,,,,,,,,848.34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+26,Vital Statistics,Myanmar,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+27,Vital Statistics,Republic of Korea,,,,,,,2023,,,,,,,,,,,,,230.03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+28,Vital Statistics,Kenya,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+29,Vital Statistics,Colombia,,,,,,,2023,,,,,,,,,,,,,515.55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+30,Vital Statistics,Spain,,,,,,,2023,,,,,,,,,,,,,322.38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+31,Vital Statistics,Argentina,,,,,,,2023,,,,,,,,,,,,,460.90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+32,Vital Statistics,Ukraine,,,,,,,2023,,,,,,,,,,,,,187.39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+33,Vital Statistics,Sudan,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+34,Vital Statistics,Algeria,,,,,,,2023,,,,,,,,,,,,,895.14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+35,Vital Statistics,Uganda,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+36,Vital Statistics,Iraq,,,,,,,2023,,,,,,,,,,,,,852.09,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+37,Vital Statistics,Poland,,,,,,,2023,,,,,,,,,,,,,272.45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+38,Vital Statistics,Canada,,,,,,,2023,,,,,,,,,,,,,351.88,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+39,Vital Statistics,Afghanistan,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+40,Vital Statistics,Morocco,,,,,,,2023,,,,,,,,,,,,,592.35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+41,Vital Statistics,Saudi Arabia,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+42,Vital Statistics,Uzbekistan,,,,,,,2023,,,,,,,,,,,,,961.96,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+43,Vital Statistics,Malaysia,,,,,,,2023,,,,,,,,,,,,,455.76,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+44,Vital Statistics,Peru,,,,,,,2023,,,,,,,,,,,,,410.37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+45,Vital Statistics,Angola,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+46,Vital Statistics,Ghana,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+47,Vital Statistics,Yemen,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+48,Vital Statistics,Mozambique,,,,,,,2023,,,,,,,,,,,,,167.08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+49,Vital Statistics,Venezuela (Bolivarian Republic of),,,,,,,2023,,,,,,,,,,,,,423.89,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+50,Vital Statistics,Nepal,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+51,Vital Statistics,Madagascar,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+52,Vital Statistics,Côte d'Ivoire,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+53,Vital Statistics,Dem. People's Republic of Korea,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+54,Vital Statistics,Cameroon,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+55,Vital Statistics,Australia,,,,,,,2023,,,,,,,,,,,,,287.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+56,Vital Statistics,"China, Taiwan Province of China",,,,,,,2023,,,,,,,,,,,,,135.57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+57,Vital Statistics,Niger,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+58,Vital Statistics,Sri Lanka,,,,,,,2023,,,,,,,,,,,,,247.90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+59,Vital Statistics,Burkina Faso,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+60,Vital Statistics,Mali,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+61,Vital Statistics,Syrian Arab Republic,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+62,Vital Statistics,Romania,,,,,,,2023,,,,,,,,,,,,,160.08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+63,Vital Statistics,Chile,,,,,,,2023,,,,,,,,,,,,,173.92,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+64,Vital Statistics,Kazakhstan,,,,,,,2023,,,,,,,,,,,,,388.43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+65,Vital Statistics,Malawi,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+66,Vital Statistics,Zambia,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+67,Vital Statistics,Netherlands,,,,,,,2023,,,,,,,,,,,,,164.49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+68,Vital Statistics,Ecuador,,,,,,,2023,,,,,,,,,,,,,238.77,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+69,Vital Statistics,Guatemala,,,,,,,2023,,,,,,,,,,,,,342.69,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+70,Vital Statistics,Cambodia,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+71,Vital Statistics,Chad,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+72,Vital Statistics,Senegal,,,,,,,2023,,,,,,,,,,,,,556.29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+73,Vital Statistics,Somalia,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+74,Vital Statistics,Zimbabwe,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+75,Vital Statistics,Guinea,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+76,Vital Statistics,Rwanda,,,,,,,2023,,,,,,,,,,,,,334.02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+77,Vital Statistics,Benin,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+78,Vital Statistics,Tunisia,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+79,Vital Statistics,Burundi,,,,,,,2023,,,,,,,,,,,,,368.54,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+80,Vital Statistics,Bolivia (Plurinational State of),,,,,,,2023,,,,,,,,,,,,,199.26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+81,Vital Statistics,Belgium,,,,,,,2023,,,,,,,,,,,,,110.20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+82,Vital Statistics,Cuba,,,,,,,2023,,,,,,,,,,,,,90.39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+83,Vital Statistics,Haiti,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+84,Vital Statistics,Dominican Republic,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+85,Vital Statistics,Greece,,,,,,,2023,,,,,,,,,,,,,71.25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+86,Vital Statistics,Jordan,,,,,,,2023,,,,,,,,,,,,,182.61,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+87,Vital Statistics,Czechia,,,,,,,2023,,,,,,,,,,,,,91.15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+88,Vital Statistics,South Sudan,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+89,Vital Statistics,Portugal,,,,,,,2023,,,,,,,,,,,,,85.99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+90,Vital Statistics,Sweden,,,,,,,2023,,,,,,,,,,,,,100.05,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+91,Vital Statistics,Azerbaijan,,,,,,,2023,,,,,,,,,,,,,112.62,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+92,Vital Statistics,Honduras,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+93,Vital Statistics,Hungary,,,,,,,2023,,,,,,,,,,,,,85.23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+94,Vital Statistics,Belarus,,,,,,,2023,,,,,,,,,,,,,64.61,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+95,Vital Statistics,Papua New Guinea,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+96,Vital Statistics,Tajikistan,,,,,,,2023,,,,,,,,,,,,,250.29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+97,Vital Statistics,United Arab Emirates,,,,,,,2023,,,,,,,,,,,,,101.09,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+98,Vital Statistics,Austria,,,,,,,2023,,,,,,,,,,,,,77.61,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+99,Vital Statistics,Switzerland,,,,,,,2023,,,,,,,,,,,,,80.02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+100,Vital Statistics,Israel,,,,,,,2023,,,,,,,,,,,,,178.72,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+101,Vital Statistics,Togo,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+102,Vital Statistics,Sierra Leone,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+103,Vital Statistics,"China, Hong Kong SAR",,,,,,,2023,,,,,,,,,,,,,33.23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+104,Vital Statistics,Serbia,,,,,,,2023,,,,,,,,,,,,,60.81,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+105,Vital Statistics,Lao People's Democratic Republic,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+106,Vital Statistics,Bulgaria,,,,,,,2023,,,,,,,,,,,,,57.20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+107,Vital Statistics,Nicaragua,,,,,,,2023,,,,,,,,,,,,,106.44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+108,Vital Statistics,Libya,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+109,Vital Statistics,Paraguay,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+110,Vital Statistics,El Salvador,,,,,,,2023,,,,,,,,,,,,,99.43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+111,Vital Statistics,Kyrgyzstan,,,,,,,2023,,,,,,,,,,,,,145.98,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+112,Vital Statistics,Turkmenistan,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+113,Vital Statistics,Lebanon,,,,,,,2023,,,,,,,,,,,,,66.87,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+114,Vital Statistics,Singapore,,,,,,,2023,,,,,,,,,,,,,33.54,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+115,Vital Statistics,Denmark,,,,,,,2023,,,,,,,,,,,,,57.47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+116,Vital Statistics,Finland,,,,,,,2023,,,,,,,,,,,,,43.38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+117,Vital Statistics,Congo,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+118,Vital Statistics,Slovakia,,,,,,,2023,,,,,,,,,,,,,48.63,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+119,Vital Statistics,Norway,,,,,,,2023,,,,,,,,,,,,,51.98,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+120,Vital Statistics,Central African Republic,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+121,Vital Statistics,Costa Rica,,,,,,,2023,,,,,,,,,,,,,50.21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+122,Vital Statistics,Liberia,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+123,Vital Statistics,New Zealand,,,,,,,2023,,,,,,,,,,,,,56.96,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+124,Vital Statistics,Ireland,,,,,,,2023,,,,,,,,,,,,,54.68,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+125,Vital Statistics,State of Palestine,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+126,Vital Statistics,Oman,,,,,,,2023,,,,,,,,,,,,,71.11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+127,Vital Statistics,Kuwait,,,,,,,2023,,,,,,,,,,,,,50.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+128,Vital Statistics,Mauritania,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+129,Vital Statistics,Panama,,,,,,,2023,,,,,,,,,,,,,59.91,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+130,Vital Statistics,Croatia,,,,,,,2023,,,,,,,,,,,,,32.17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+131,Vital Statistics,Georgia,,,,,,,2023,,,,,,,,,,,,,40.21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+132,Vital Statistics,Eritrea,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+133,Vital Statistics,Uruguay,,,,,,,2023,,,,,,,,,,,,,31.38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+134,Vital Statistics,Bosnia and Herzegovina,,,,,,,2023,,,,,,,,,,,,,24.94,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+135,Vital Statistics,Puerto Rico,,,,,,,2023,,,,,,,,,,,,,18.64,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+136,Vital Statistics,Mongolia,,,,,,,2023,,,,,,,,,,,,,66.23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+137,Vital Statistics,Republic of Moldova,,,,,,,2023,,,,,,,,,,,,,24.12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+138,Vital Statistics,Albania,,,,,,,2023,,,,,,,,,,,,,23.62,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+139,Vital Statistics,Lithuania,,,,,,,2023,,,,,,,,,,,,,20.62,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+140,Vital Statistics,Armenia,,,,,,,2023,,,,,,,,,,,,,36.59,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+141,Vital Statistics,Jamaica,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+142,Vital Statistics,Qatar,,,,,,,2023,,,,,,,,,,,,,27.41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+143,Vital Statistics,Gambia,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+144,Vital Statistics,Botswana,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+145,Vital Statistics,Namibia,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+146,Vital Statistics,Gabon,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+147,Vital Statistics,Lesotho,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+148,Vital Statistics,North Macedonia,,,,,,,2023,,,,,,,,,,,,,16.74,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+149,Vital Statistics,Slovenia,,,,,,,2023,,,,,,,,,,,,,16.99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+150,Vital Statistics,Guinea-Bissau,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+151,Vital Statistics,Latvia,,,,,,,2023,,,,,,,,,,,,,14.49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+152,Vital Statistics,Kosovo (under UNSC res. 1244),,,,,,,2023,,,,,,,,,,,,,21.65,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+153,Vital Statistics,Equatorial Guinea,,,,,,,2023,,,,,,,,,,,,,15.17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+154,Vital Statistics,Trinidad and Tobago,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+155,Vital Statistics,Bahrain,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+156,Vital Statistics,Estonia,,,,,,,2023,,,,,,,,,,,,,10.95,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+157,Vital Statistics,Mauritius,,,,,,,2023,,,,,,,,,,,,,12.87,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+158,Vital Statistics,Timor-Leste,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+159,Vital Statistics,Cyprus,,,,,,,2023,,,,,,,,,,,,,10.24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+160,Vital Statistics,Eswatini,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+161,Vital Statistics,Djibouti,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+162,Vital Statistics,Réunion,,,,,,,2023,,,,,,,,,,,,,13.13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+163,Vital Statistics,Fiji,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+164,Vital Statistics,Guyana,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+165,Vital Statistics,Comoros,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+166,Vital Statistics,Bhutan,,,,,,,2023,,,,,,,,,,,,,9.71,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+167,Vital Statistics,Solomon Islands,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+168,Vital Statistics,"China, Macao SAR",,,,,,,2023,,,,,,,,,,,,,3.71,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+169,Vital Statistics,Montenegro,,,,,,,2023,,,,,,,,,,,,,7.01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+170,Vital Statistics,Luxembourg,,,,,,,2023,,,,,,,,,,,,,6.32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+171,Vital Statistics,Suriname,,,,,,,2023,,,,,,,,,,,,,8.93,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+172,Vital Statistics,Cabo Verde,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+173,Vital Statistics,Western Sahara,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+174,Vital Statistics,Maldives,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+175,Vital Statistics,Malta,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+176,Vital Statistics,Brunei Darussalam,,,,,,,2023,,,,,,,,,,,,,6.29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+177,Vital Statistics,Bahamas,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+178,Vital Statistics,Guadeloupe,,,,,,,2023,,,,,,,,,,,,,4.08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+179,Vital Statistics,Belize,,,,,,,2023,,,,,,,,,,,,,6.34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+180,Vital Statistics,Martinique,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+181,Vital Statistics,Iceland,,,,,,,2023,,,,,,,,,,,,,4.32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+182,Vital Statistics,Vanuatu,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+183,Vital Statistics,French Polynesia,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+184,Vital Statistics,Mayotte,,,,,,,2023,,,,,,,,,,,,,9.99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+185,Vital Statistics,New Caledonia,,,,,,,2023,,,,,,,,,,,,,3.36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+186,Vital Statistics,French Guiana,,,,,,,2023,,,,,,,,,,,,,7.71,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+187,Vital Statistics,Barbados,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+188,Vital Statistics,Sao Tome and Principe,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+189,Vital Statistics,Samoa,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+190,Vital Statistics,Curaçao,,,,,,,2023,,,,,,,,,,,,,1.18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+191,Vital Statistics,Saint Lucia,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+192,Vital Statistics,Guam,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+193,Vital Statistics,Kiribati,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+194,Vital Statistics,Grenada,,,,,,,2023,,,,,,,,,,,,,1.38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+195,Vital Statistics,Micronesia (Fed. States of),,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+196,Vital Statistics,Jersey,,,,,,,2023,,,,,,,,,,,,,0.80,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+197,Vital Statistics,Aruba,,,,,,,2023,,,,,,,,,,,,,0.86,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+198,Vital Statistics,Saint Vincent and the Grenadines,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+199,Vital Statistics,Tonga,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+200,Vital Statistics,Seychelles,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+201,Vital Statistics,United States Virgin Islands,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+202,Vital Statistics,Antigua and Barbuda,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+203,Vital Statistics,Isle of Man,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+204,Vital Statistics,Andorra,,,,,,,2023,,,,,,,,,,,,,0.46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+205,Vital Statistics,Dominica,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+206,Vital Statistics,Cayman Islands,,,,,,,2023,,,,,,,,,,,,,0.76,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+207,Vital Statistics,Bermuda,,,,,,,2023,,,,,,,,,,,,,0.44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+208,Vital Statistics,Guernsey,,,,,,,2023,,,,,,,,,,,,,0.45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+209,Vital Statistics,Greenland,,,,,,,2023,,,,,,,,,,,,,0.72,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+210,Vital Statistics,Faroe Islands,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+211,Vital Statistics,Northern Mariana Islands,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+212,Vital Statistics,American Samoa,,,,,,,2023,,,,,,,,,,,,,0.74,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+213,Vital Statistics,Saint Kitts and Nevis,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+214,Vital Statistics,Marshall Islands,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+215,Vital Statistics,Sint Maarten (Dutch part),,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+216,Vital Statistics,Turks and Caicos Islands,,,,,,,2023,,,,,,,,,,,,,0.52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+217,Vital Statistics,Liechtenstein,,,,,,,2023,,,,,,,,,,,,,0.36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+218,Vital Statistics,Monaco,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+219,Vital Statistics,San Marino,,,,,,,2023,,,,,,,,,,,,,0.19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+220,Vital Statistics,Saint Martin (French part),,,,,,,2023,,,,,,,,,,,,,0.53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+221,Vital Statistics,Gibraltar,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+222,Vital Statistics,British Virgin Islands,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+223,Vital Statistics,"Bonaire, Sint Eustatius and Saba",,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+224,Vital Statistics,Palau,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+225,Vital Statistics,Cook Islands,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+226,Vital Statistics,Anguilla,,,,,,,2023,,,,,,,,,,,,,0.12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+227,Vital Statistics,Nauru,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+228,Vital Statistics,Wallis and Futuna Islands,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+229,Vital Statistics,Tuvalu,,,,,,,2023,,,,,,,,,,,,,0.23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+230,Vital Statistics,Saint Barthélemy,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+231,Vital Statistics,Saint Pierre and Miquelon,,,,,,,2023,,,,,,,,,,,,,0.03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+232,Vital Statistics,Saint Helena,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+233,Vital Statistics,Montserrat,,,,,,,2023,,,,,,,,,,,,,0.03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+234,Vital Statistics,Falkland Islands (Malvinas),,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+235,Vital Statistics,Niue,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+236,Vital Statistics,Tokelau,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+237,Vital Statistics,Holy See,,,,,,,2023,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+238,Vital Statistics,China,,,,,,,2024,,,,,,,,,,,,,9540.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+239,Vital Statistics,India,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+240,Vital Statistics,United States of America,,,,,,,2024,,,,,,,,,,,,,3622.67,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+241,Vital Statistics,Indonesia,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+242,Vital Statistics,Pakistan,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+243,Vital Statistics,Brazil,,,,,,,2024,,,,,,,,,,,,,2260.03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+244,Vital Statistics,Nigeria,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+245,Vital Statistics,Bangladesh,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+246,Vital Statistics,Russian Federation,,,,,,,2024,,,,,,,,,,,,,1222.41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+247,Vital Statistics,Japan,,,,,,,2024,,,,,,,,,,,,,686.06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+248,Vital Statistics,Mexico,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+249,Vital Statistics,Ethiopia,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+250,Vital Statistics,Philippines,,,,,,,2024,,,,,,,,,,,,,1204.07,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+251,Vital Statistics,Egypt,,,,,,,2024,,,,,,,,,,,,,1967.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+252,Vital Statistics,Viet Nam,,,,,,,2024,,,,,,,,,,,,,1367.60,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+253,Vital Statistics,Democratic Republic of the Congo,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+254,Vital Statistics,Iran (Islamic Republic of),,,,,,,2024,,,,,,,,,,,,,979.92,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+255,Vital Statistics,Türkiye,,,,,,,2024,,,,,,,,,,,,,937.56,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+256,Vital Statistics,Germany,,,,,,,2024,,,,,,,,,,,,,677.18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+257,Vital Statistics,Thailand,,,,,,,2024,,,,,,,,,,,,,462.24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+258,Vital Statistics,United Kingdom,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+259,Vital Statistics,France,,,,,,,2024,,,,,,,,,,,,,626.50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+260,Vital Statistics,Italy,,,,,,,2024,,,,,,,,,,,,,369.92,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+261,Vital Statistics,United Republic of Tanzania,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+262,Vital Statistics,South Africa,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+263,Vital Statistics,Myanmar,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+264,Vital Statistics,Republic of Korea,,,,,,,2024,,,,,,,,,,,,,238.34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+265,Vital Statistics,Kenya,,,,,,,2024,,,,,,,,,,,,,1110.56,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+266,Vital Statistics,Colombia,,,,,,,2024,,,,,,,,,,,,,445.01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+267,Vital Statistics,Spain,,,,,,,2024,,,,,,,,,,,,,322.03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+268,Vital Statistics,Argentina,,,,,,,2024,,,,,,,,,,,,,420.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+269,Vital Statistics,Ukraine,,,,,,,2024,,,,,,,,,,,,,176.68,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+270,Vital Statistics,Sudan,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+271,Vital Statistics,Algeria,,,,,,,2024,,,,,,,,,,,,,873.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+272,Vital Statistics,Uganda,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+273,Vital Statistics,Iraq,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+274,Vital Statistics,Poland,,,,,,,2024,,,,,,,,,,,,,251.78,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+275,Vital Statistics,Canada,,,,,,,2024,,,,,,,,,,,,,365.57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+276,Vital Statistics,Afghanistan,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+277,Vital Statistics,Morocco,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+278,Vital Statistics,Saudi Arabia,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+279,Vital Statistics,Uzbekistan,,,,,,,2024,,,,,,,,,,,,,926.42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+280,Vital Statistics,Malaysia,,,,,,,2024,,,,,,,,,,,,,412.81,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+281,Vital Statistics,Peru,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+282,Vital Statistics,Angola,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+283,Vital Statistics,Ghana,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+284,Vital Statistics,Yemen,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+285,Vital Statistics,Mozambique,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+286,Vital Statistics,Venezuela (Bolivarian Republic of),,,,,,,2024,,,,,,,,,,,,,426.98,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+287,Vital Statistics,Nepal,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+288,Vital Statistics,Madagascar,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+289,Vital Statistics,Côte d'Ivoire,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+290,Vital Statistics,Dem. People's Republic of Korea,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+291,Vital Statistics,Cameroon,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+292,Vital Statistics,Australia,,,,,,,2024,,,,,,,,,,,,,292.40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+293,Vital Statistics,"China, Taiwan Province of China",,,,,,,2024,,,,,,,,,,,,,134.86,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+294,Vital Statistics,Niger,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+295,Vital Statistics,Sri Lanka,,,,,,,2024,,,,,,,,,,,,,220.76,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+296,Vital Statistics,Burkina Faso,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+297,Vital Statistics,Mali,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+298,Vital Statistics,Syrian Arab Republic,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+299,Vital Statistics,Romania,,,,,,,2024,,,,,,,,,,,,,143.38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+300,Vital Statistics,Chile,,,,,,,2024,,,,,,,,,,,,,154.44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+301,Vital Statistics,Kazakhstan,,,,,,,2024,,,,,,,,,,,,,365.92,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+302,Vital Statistics,Malawi,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+303,Vital Statistics,Zambia,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+304,Vital Statistics,Netherlands,,,,,,,2024,,,,,,,,,,,,,166.14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+305,Vital Statistics,Ecuador,,,,,,,2024,,,,,,,,,,,,,215.71,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+306,Vital Statistics,Guatemala,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+307,Vital Statistics,Cambodia,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+308,Vital Statistics,Chad,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+309,Vital Statistics,Senegal,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+310,Vital Statistics,Somalia,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+311,Vital Statistics,Zimbabwe,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+312,Vital Statistics,Guinea,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+313,Vital Statistics,Rwanda,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+314,Vital Statistics,Benin,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+315,Vital Statistics,Tunisia,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+316,Vital Statistics,Burundi,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+317,Vital Statistics,Bolivia (Plurinational State of),,,,,,,2024,,,,,,,,,,,,,183.88,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+318,Vital Statistics,Belgium,,,,,,,2024,,,,,,,,,,,,,109.28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+319,Vital Statistics,Cuba,,,,,,,2024,,,,,,,,,,,,,71.37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+320,Vital Statistics,Haiti,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+321,Vital Statistics,Dominican Republic,,,,,,,2024,,,,,,,,,,,,,137.95,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+322,Vital Statistics,Greece,,,,,,,2024,,,,,,,,,,,,,69.68,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+323,Vital Statistics,Jordan,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+324,Vital Statistics,Czechia,,,,,,,2024,,,,,,,,,,,,,84.31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+325,Vital Statistics,South Sudan,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+326,Vital Statistics,Portugal,,,,,,,2024,,,,,,,,,,,,,84.93,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+327,Vital Statistics,Sweden,,,,,,,2024,,,,,,,,,,,,,98.45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+328,Vital Statistics,Azerbaijan,,,,,,,2024,,,,,,,,,,,,,102.31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+329,Vital Statistics,Honduras,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+330,Vital Statistics,Hungary,,,,,,,2024,,,,,,,,,,,,,77.08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+331,Vital Statistics,Belarus,,,,,,,2024,,,,,,,,,,,,,58.94,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+332,Vital Statistics,Papua New Guinea,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+333,Vital Statistics,Tajikistan,,,,,,,2024,,,,,,,,,,,,,251.55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+334,Vital Statistics,United Arab Emirates,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+335,Vital Statistics,Austria,,,,,,,2024,,,,,,,,,,,,,76.87,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+336,Vital Statistics,Switzerland,,,,,,,2024,,,,,,,,,,,,,78.26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+337,Vital Statistics,Israel,,,,,,,2024,,,,,,,,,,,,,181.61,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+338,Vital Statistics,Togo,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+339,Vital Statistics,Sierra Leone,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+340,Vital Statistics,"China, Hong Kong SAR",,,,,,,2024,,,,,,,,,,,,,36.77,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+341,Vital Statistics,Serbia,,,,,,,2024,,,,,,,,,,,,,60.85,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+342,Vital Statistics,Lao People's Democratic Republic,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+343,Vital Statistics,Bulgaria,,,,,,,2024,,,,,,,,,,,,,51.33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+344,Vital Statistics,Nicaragua,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+345,Vital Statistics,Libya,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+346,Vital Statistics,Paraguay,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+347,Vital Statistics,El Salvador,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+348,Vital Statistics,Kyrgyzstan,,,,,,,2024,,,,,,,,,,,,,140.42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+349,Vital Statistics,Turkmenistan,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+350,Vital Statistics,Lebanon,,,,,,,2024,,,,,,,,,,,,,65.21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+351,Vital Statistics,Singapore,,,,,,,2024,,,,,,,,,,,,,33.70,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+352,Vital Statistics,Denmark,,,,,,,2024,,,,,,,,,,,,,57.08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+353,Vital Statistics,Finland,,,,,,,2024,,,,,,,,,,,,,43.39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+354,Vital Statistics,Congo,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+355,Vital Statistics,Slovakia,,,,,,,2024,,,,,,,,,,,,,46.24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+356,Vital Statistics,Norway,,,,,,,2024,,,,,,,,,,,,,53.94,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+357,Vital Statistics,Central African Republic,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+358,Vital Statistics,Costa Rica,,,,,,,2024,,,,,,,,,,,,,45.83,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+359,Vital Statistics,Liberia,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+360,Vital Statistics,New Zealand,,,,,,,2024,,,,,,,,,,,,,58.34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+361,Vital Statistics,Ireland,,,,,,,2024,,,,,,,,,,,,,54.06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+362,Vital Statistics,State of Palestine,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+363,Vital Statistics,Oman,,,,,,,2024,,,,,,,,,,,,,70.21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+364,Vital Statistics,Kuwait,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+365,Vital Statistics,Mauritania,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+366,Vital Statistics,Panama,,,,,,,2024,,,,,,,,,,,,,55.08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+367,Vital Statistics,Croatia,,,,,,,2024,,,,,,,,,,,,,32.07,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+368,Vital Statistics,Georgia,,,,,,,2024,,,,,,,,,,,,,39.48,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+369,Vital Statistics,Eritrea,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+370,Vital Statistics,Uruguay,,,,,,,2024,,,,,,,,,,,,,29.90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+371,Vital Statistics,Bosnia and Herzegovina,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+372,Vital Statistics,Puerto Rico,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+373,Vital Statistics,Mongolia,,,,,,,2024,,,,,,,,,,,,,59.64,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+374,Vital Statistics,Republic of Moldova,,,,,,,2024,,,,,,,,,,,,,23.65,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+375,Vital Statistics,Albania,,,,,,,2024,,,,,,,,,,,,,23.31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+376,Vital Statistics,Lithuania,,,,,,,2024,,,,,,,,,,,,,18.67,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+377,Vital Statistics,Armenia,,,,,,,2024,,,,,,,,,,,,,33.65,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+378,Vital Statistics,Jamaica,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+379,Vital Statistics,Qatar,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+380,Vital Statistics,Gambia,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+381,Vital Statistics,Botswana,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+382,Vital Statistics,Namibia,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+383,Vital Statistics,Gabon,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+384,Vital Statistics,Lesotho,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+385,Vital Statistics,North Macedonia,,,,,,,2024,,,,,,,,,,,,,16.06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+386,Vital Statistics,Slovenia,,,,,,,2024,,,,,,,,,,,,,16.65,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+387,Vital Statistics,Guinea-Bissau,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+388,Vital Statistics,Latvia,,,,,,,2024,,,,,,,,,,,,,12.57,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+389,Vital Statistics,Kosovo (under UNSC res. 1244),,,,,,,2024,,,,,,,,,,,,,21.49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+390,Vital Statistics,Equatorial Guinea,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+391,Vital Statistics,Trinidad and Tobago,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+392,Vital Statistics,Bahrain,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+393,Vital Statistics,Estonia,,,,,,,2024,,,,,,,,,,,,,9.65,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+394,Vital Statistics,Mauritius,,,,,,,2024,,,,,,,,,,,,,12.91,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+395,Vital Statistics,Timor-Leste,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+396,Vital Statistics,Cyprus,,,,,,,2024,,,,,,,,,,,,,9.94,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+397,Vital Statistics,Eswatini,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+398,Vital Statistics,Djibouti,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+399,Vital Statistics,Réunion,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+400,Vital Statistics,Fiji,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+401,Vital Statistics,Guyana,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+402,Vital Statistics,Comoros,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+403,Vital Statistics,Bhutan,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+404,Vital Statistics,Solomon Islands,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+405,Vital Statistics,"China, Macao SAR",,,,,,,2024,,,,,,,,,,,,,3.61,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+406,Vital Statistics,Montenegro,,,,,,,2024,,,,,,,,,,,,,6.98,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+407,Vital Statistics,Luxembourg,,,,,,,2024,,,,,,,,,,,,,6.46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+408,Vital Statistics,Suriname,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+409,Vital Statistics,Cabo Verde,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+410,Vital Statistics,Western Sahara,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+411,Vital Statistics,Maldives,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+412,Vital Statistics,Malta,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+413,Vital Statistics,Brunei Darussalam,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+414,Vital Statistics,Bahamas,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+415,Vital Statistics,Guadeloupe,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+416,Vital Statistics,Belize,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+417,Vital Statistics,Martinique,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+418,Vital Statistics,Iceland,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+419,Vital Statistics,Vanuatu,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+420,Vital Statistics,French Polynesia,,,,,,,2024,,,,,,,,,,,,,3.29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+421,Vital Statistics,Mayotte,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+422,Vital Statistics,New Caledonia,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+423,Vital Statistics,French Guiana,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+424,Vital Statistics,Barbados,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+425,Vital Statistics,Sao Tome and Principe,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+426,Vital Statistics,Samoa,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+427,Vital Statistics,Curaçao,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+428,Vital Statistics,Saint Lucia,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+429,Vital Statistics,Guam,,,,,,,2024,,,,,,,,,,,,,2.37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+430,Vital Statistics,Kiribati,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+431,Vital Statistics,Grenada,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+432,Vital Statistics,Micronesia (Fed. States of),,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+433,Vital Statistics,Jersey,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+434,Vital Statistics,Aruba,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+435,Vital Statistics,Saint Vincent and the Grenadines,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+436,Vital Statistics,Tonga,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+437,Vital Statistics,Seychelles,,,,,,,2024,,,,,,,,,,,,,1.33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+438,Vital Statistics,United States Virgin Islands,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+439,Vital Statistics,Antigua and Barbuda,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+440,Vital Statistics,Isle of Man,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+441,Vital Statistics,Andorra,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+442,Vital Statistics,Dominica,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+443,Vital Statistics,Cayman Islands,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+444,Vital Statistics,Bermuda,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+445,Vital Statistics,Guernsey,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+446,Vital Statistics,Greenland,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+447,Vital Statistics,Faroe Islands,,,,,,,2024,,,,,,,,,,,,,0.58,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+448,Vital Statistics,Northern Mariana Islands,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+449,Vital Statistics,American Samoa,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+450,Vital Statistics,Saint Kitts and Nevis,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+451,Vital Statistics,Marshall Islands,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+452,Vital Statistics,Sint Maarten (Dutch part),,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+453,Vital Statistics,Turks and Caicos Islands,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+454,Vital Statistics,Liechtenstein,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+455,Vital Statistics,Monaco,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+456,Vital Statistics,San Marino,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+457,Vital Statistics,Saint Martin (French part),,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+458,Vital Statistics,Gibraltar,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+459,Vital Statistics,British Virgin Islands,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+460,Vital Statistics,"Bonaire, Sint Eustatius and Saba",,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+461,Vital Statistics,Palau,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+462,Vital Statistics,Cook Islands,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+463,Vital Statistics,Anguilla,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+464,Vital Statistics,Nauru,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+465,Vital Statistics,Wallis and Futuna Islands,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+466,Vital Statistics,Tuvalu,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+467,Vital Statistics,Saint Barthélemy,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+468,Vital Statistics,Saint Pierre and Miquelon,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+469,Vital Statistics,Saint Helena,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+470,Vital Statistics,Montserrat,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+471,Vital Statistics,Falkland Islands (Malvinas),,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+472,Vital Statistics,Niue,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+473,Vital Statistics,Tokelau,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+474,Vital Statistics,Holy See,,,,,,,2024,,,,,,,,,,,,,0.00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
