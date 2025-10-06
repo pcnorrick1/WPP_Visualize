@@ -1,0 +1,51 @@
+# =====================================================
+# Python
+# =====================================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments and local configs
+.env
+.venv/
+*.env
+.DS_Store
+
+# =====================================================
+# Data files
+# =====================================================
+
+# Ignore large or raw datasets
+data/raw/
+data/processed/*
+!data/processed/vital_statistics.csv  # Keep only this processed file tracked
+
+# Ignore Excel files except the provenance file in docs/
+*.xlsx
+!docs/2023-24-vital-statistics-compiled.xlsx
+
+# =====================================================
+# Streamlit
+# =====================================================
+.streamlit/
+
+# =====================================================
+# VS Code / IDE
+# =====================================================
+.vscode/
+.idea/
+.netrwhist                # Neovim's file history
+*.swp
+*.swo
+*.swn
+session.vim
+
+
+# =====================================================
+# System / OS
+# =====================================================
+Thumbs.db
+.DS_Store
+
