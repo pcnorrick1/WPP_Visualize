@@ -6,7 +6,7 @@ from plotnine import aes, annotate, geom_line, geom_point, ggplot, ggtitle, guid
 
 
 def main():
-    root = Path(__file__).resolve().parents[1]
+    root = Path(__file__).resolve().parent
     data_processed = root / "data" / "processed"
 
     wpp_median_2022 = pd.read_csv(data_processed / "WPP_2022_Median_clean.csv")
