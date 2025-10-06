@@ -6,7 +6,7 @@ import pandas as pd
 
 
 def get_project_paths():
-    root = Path(__file__).resolve().parents[1]  # project root
+    root = Path(__file__).resolve().parent.parent  # project root
     data_raw = root / "data" / "raw"
     data_processed = root / "data" / "processed"
     data_processed.mkdir(parents=True, exist_ok=True)

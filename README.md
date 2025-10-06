@@ -20,10 +20,10 @@ ______________________________________________________________________
 
 ### Structure
 
-app/ -> Streamlit app (`wpp_visualize.py`)\
+`wpp_visualize.py` -> implements the web-app\
 src/ -> Data cleaning script (`clean_wpp_data.py`)\
 data/\
-|--raw/ -> Original WPP data (not tracked)\
+|--raw/ -> Original WPP data\
 |--processed/ -> Cleaned data used by the app\
 docs/ -> Hand-compiled birth data with sources
 
@@ -36,4 +36,3 @@ The file\
 contains the manually compiled vital statistic birth data for every country I could find it for\
 (Last Updated 7/29/2025 by author)\
 This file is **not used in the code**, but is included for transparency.
-
